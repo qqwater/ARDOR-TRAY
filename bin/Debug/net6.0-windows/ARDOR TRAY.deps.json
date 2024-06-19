@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ARDOR TRAY/1.0.0": {
+        "runtime": {
+          "ARDOR TRAY.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ARDOR TRAY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
